@@ -429,7 +429,7 @@ a.index_style3_l_r{
     margin-top: 30px;
     line-height: 25px;
     color: #eee;
-    text-align: center;
+    text-align: left;
     font-size: 12px;
 
 }
@@ -663,7 +663,7 @@ a.case_left_li_on{
     .game163{ position: relative; border: 1px solid #dcdddd; padding: 4px; overflow: hidden; width: 240px; }
     .game163 .bigImg{ height: 258px; position: relative;}
     .game163 .bigImg li{text-align: center;}
-    .game163 .bigImg li img{ vertical-align:middle; width:129px; height:227px;   }
+    .game163 .bigImg li img{ vertical-align:middle; width:205px; height:227px;   }
     .game163 .bigImg  h4{ font-size: 14px; font-weight: bold; line-height: 33px; height: 33px; padding-right: 30px; overflow: hidden; text-align: left; }
 
     .game163 .smallScroll{ height: 47px; margin-bottom: 6px;}
