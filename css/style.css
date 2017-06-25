@@ -202,10 +202,58 @@ a.index_style2_top3{
     height: 145px;
     line-height: 154px;
 }
-.index_style2_product dl dt a img{
+/* .index_style2_product dl dt a img{
     max-width: 80%;
-     max-width: 97px;
-     vertical-align: middle;
+    max-width: 100px;
+    vertical-align: middle;
+} */
+.index_style2_product dl dt a .one{
+    /* max-width: 80%; */
+    max-width: 250px;
+    margin-left: -30px;
+    vertical-align: middle;
+}
+.index_style2_product dl dt a .two{
+    /* max-width: 80%; */
+    max-width: 250px;
+    margin-left: -30px;
+    vertical-align: middle;
+}
+.index_style2_product dl dt a .three{
+    /* max-width: 80%; */
+    max-width: 250px;
+    margin-left: -30px;
+    vertical-align: middle;
+}
+.index_style2_product dl dt a .four{
+    /* max-width: 80%; */
+    max-width: 105px;
+    /* margin-left: -30px; */
+    vertical-align: middle;
+}
+.index_style2_product dl dt a .five{
+    /* max-width: 80%; */
+    max-width: 178px;
+    /* margin-left: -30px; */
+    vertical-align: middle;
+}
+.index_style2_product dl dt a .six{
+    /* max-width: 80%; */
+    max-width: 178px;
+    /* margin-left: -30px; */
+    vertical-align: middle;
+}
+.index_style2_product dl dt a .seven{
+    /* max-width: 80%; */
+    max-width: 110px;
+    margin-top: -15px;
+    vertical-align: middle;
+}
+.index_style2_product dl dt a .eight{
+    /* max-width: 80%; */
+    max-width: 110px;
+    margin-top: -15px;
+    vertical-align: middle;
 }
 .index_style2_product dl dd{
     margin:15px 0;
